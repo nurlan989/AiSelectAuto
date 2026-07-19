@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug AIAutoPicker",
+            "type": "lldb",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/AIAutoPicker",
+            "cwd": "${workspaceFolder}",
+            "stopOnEntry": false,
+            "internalConsoleOptions": "neverOpen"
+
+        }
+    ]
+}

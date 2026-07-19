@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_aiauto_picker_FILE /Users/nurlan/Documents/AI_Project/AISelectCar/build/aiauto_picker.app/Contents/MacOS/aiauto_picker)
+set(__QT_DEPLOY_TARGET_aiauto_picker_TYPE EXECUTABLE)

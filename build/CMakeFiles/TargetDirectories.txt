@@ -1,0 +1,5 @@
+/Users/nurlan/Documents/AI_Project/AISelectCar/build/CMakeFiles/aiauto_picker.dir
+/Users/nurlan/Documents/AI_Project/AISelectCar/build/CMakeFiles/edit_cache.dir
+/Users/nurlan/Documents/AI_Project/AISelectCar/build/CMakeFiles/rebuild_cache.dir
+/Users/nurlan/Documents/AI_Project/AISelectCar/build/CMakeFiles/aiauto_picker_autogen_timestamp_deps.dir
+/Users/nurlan/Documents/AI_Project/AISelectCar/build/CMakeFiles/aiauto_picker_autogen.dir

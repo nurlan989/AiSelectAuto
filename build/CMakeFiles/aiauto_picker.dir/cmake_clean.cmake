@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/aiauto_picker_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/aiauto_picker_autogen.dir/ParseCache.txt"
+  "aiauto_picker_autogen"
+  "CMakeFiles/aiauto_picker.dir/aiauto_picker_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/aiauto_picker.dir/aiauto_picker_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/aiauto_picker.dir/src/ai/config/detector_model_config.cpp.o"
+  "CMakeFiles/aiauto_picker.dir/src/ai/config/detector_model_config.cpp.o.d"
+  "CMakeFiles/aiauto_picker.dir/src/ai/detector.cpp.o"
+  "CMakeFiles/aiauto_picker.dir/src/ai/detector.cpp.o.d"
+  "CMakeFiles/aiauto_picker.dir/src/ai/engine/inference_engine.cpp.o"
+  "CMakeFiles/aiauto_picker.dir/src/ai/engine/inference_engine.cpp.o.d"
+  "CMakeFiles/aiauto_picker.dir/src/ai/pipeline/post_processor.cpp.o"
+  "CMakeFiles/aiauto_picker.dir/src/ai/pipeline/post_processor.cpp.o.d"
+  "CMakeFiles/aiauto_picker.dir/src/ai/pipeline/preprocessor.cpp.o"
+  "CMakeFiles/aiauto_picker.dir/src/ai/pipeline/preprocessor.cpp.o.d"
+  "CMakeFiles/aiauto_picker.dir/src/ai/runner/ai_model_runner.cpp.o"
+  "CMakeFiles/aiauto_picker.dir/src/ai/runner/ai_model_runner.cpp.o.d"
+  "CMakeFiles/aiauto_picker.dir/src/ai/services/ai_service.cpp.o"
+  "CMakeFiles/aiauto_picker.dir/src/ai/services/ai_service.cpp.o.d"
+  "CMakeFiles/aiauto_picker.dir/src/ai/types/frame.cpp.o"
+  "CMakeFiles/aiauto_picker.dir/src/ai/types/frame.cpp.o.d"
+  "CMakeFiles/aiauto_picker.dir/src/ai/utils/nms.cpp.o"
+  "CMakeFiles/aiauto_picker.dir/src/ai/utils/nms.cpp.o.d"
+  "CMakeFiles/aiauto_picker.dir/src/app/main.cpp.o"
+  "CMakeFiles/aiauto_picker.dir/src/app/main.cpp.o.d"
+  "CMakeFiles/aiauto_picker.dir/src/ui/screens/camera_screen.cpp.o"
+  "CMakeFiles/aiauto_picker.dir/src/ui/screens/camera_screen.cpp.o.d"
+  "CMakeFiles/aiauto_picker.dir/src/ui/screens/result_screen.cpp.o"
+  "CMakeFiles/aiauto_picker.dir/src/ui/screens/result_screen.cpp.o.d"
+  "aiauto_picker.app/Contents/MacOS/aiauto_picker"
+  "aiauto_picker.pdb"
+  "aiauto_picker_autogen/mocs_compilation.cpp"
+  "aiauto_picker_autogen/timestamp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/aiauto_picker.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
