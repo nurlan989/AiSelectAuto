@@ -34,3 +34,41 @@ compile_commands.json
 Thumbs.db
 bot.log
 *.log
+
+# Логи
+*.log
+bot.log
+
+# Модели (если не используете LFS)
+*.onnx
+*.pkl
+*.h5
+*.pt
+*.pb
+*.tflite
+
+# Данные
+data/
+datasets/
+*.csv
+*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Системные
+.DS_Store
+Thumbs.db
